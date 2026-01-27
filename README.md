@@ -79,7 +79,7 @@ Produced **actionable UX recommendations** to improve patient experience and red
 # 🌐 Web Design & UX Project – Beverly  
 🔗 https://github.com/mallika-v21/Website-Design-and-Development-Beverly.git
 
-🤖 https://codepen.io/mallika-vaddi/pen/YzyPWrV
+🤖 https://codepen.io/mallika-vaddi/details/YzyPWrV
 
 **Tech:** 🌐 HTML · 🎨 CSS · ⚙️ JavaScript · 🎨 UX Design Tools  
 **Type:** 🧩 Web design, UX & front-end development
