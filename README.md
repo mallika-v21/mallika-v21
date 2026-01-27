@@ -1,69 +1,117 @@
 # 🌿 Hi, I'm **Mallika!** ✨  
-💼 *Business Analyst | Data Visualization | Sustainability & Innovation*
+💼 *Product Designer | Data Visualization | Sustainability & Innovation*
 
 ---
 
 ## 💫 About Me  
-I’m a results-driven **Business Analyst** passionate about connecting **business goals with data-driven solutions**.  
+Product-minded graduate with experience in UX, data, and digital platforms. I enjoy building practical, user-centred solutions and learning by doing.
 Currently completing my **Master of Business Information Technology at RMIT University**, I specialize in turning complex challenges into clear, actionable insights that drive digital transformation and sustainable growth.  
 
-With hands-on experience in **enterprise systems, process modelling, and BI reporting**, I bridge the gap between **people, processes, and technology** — enabling smarter and more human-centered business decisions.  
 
 ---
 
 ## 🧠 Core Expertise  
-🔹 **Business Analysis:** Requirements elicitation, stakeholder mapping, user stories, documentation  
-🔹 **Process Modelling:** BPMN & UML workflows, AS-IS/TO-BE mapping, gap analysis  
-🔹 **Business Intelligence:** KPI dashboards, data storytelling with Tableau & Power BI   
-🔹 **Project Management:** Agile & Waterfall, MS Project, risk management, ADKAR change model  
-🔹 **Design Thinking:** Human-centered research, UX prototyping, design documentation  
+🔹 UX & Product Design: User research, journeys, wireframes, prototypes, usability & accessibility
+🔹 Problem Solving & Discovery: Stakeholder insights, needs analysis, solution ideation
+🔹 Experience Mapping: End-to-end flows, service design, pain-point identification
+🔹 Data & Insights: Dashboard interpretation, metrics storytelling, evidence-based decisions
+🔹 Collaboration & Delivery: Cross-functional teamwork, iteration, continuous improvement
 
 ---
 
 ## 🧰 Tools & Technologies  
-| 💼 Category | 🧩 Tools |
-|--------------|----------|
-| **Business Analysis** | Lucidchart · Draw.io · Miro · JIRA · Confluence |
-| **BI & Data Analytics** | Tableau · Power BI · Excel · KNIME · Python |
-| **Documentation & PM** | Microsoft Project · Trello · Notion · Word · PowerPoint |
-| **Design & UX** | Figma · Canva · JustInMind |
+| 💼 **Category**              | 🧩 **Tools**                        |
+| ---------------------------- | ----------------------------------- |
+| **UX & UI Design**           | Figma · JustInMind · Canva          |
+| **Research & Ideation**      | Miro · FigJam                       |
+| **Collaboration & Delivery** | JIRA · Trello                       |
+| **Data & Insights**          | Tableau · Power BI · Excel · Python |
+| **Flow & Journey Mapping**   | Lucidchart · Draw.io                |
 
 ---
 
-## 📁 Key Business Analysis Projects  
+## 📁 Key Projects  
 
-### 🎓 **RMIT University – College of Business & Law**  
-📘 **AI-Powered EdTech Decision Support System** *(Aug 2024 – Nov 2024)*  
-**Role:** Business Analyst & Lead Researcher | *Melbourne, Australia*  
-- 🤝 Collaborated with RMIT’s Learning, Teaching & Quality team to prototype an **AI-powered EdTech Decision Support System**.  
-- 🔍 Conducted stakeholder research (n=50+) to identify user needs and challenges in tool selection.  
-- 🧠 Designed and prototyped a system integrating **Microsoft Power Pages** and **Copilot** for scalability.  
-- 🗣️ Presented the final prototype to senior RMIT stakeholders, aligning with institutional branding and accessibility standards.  
-**Tools:** Power BI · Excel · Miro · Figma · Power Pages  
-**Impact:** Streamlined digital tool evaluation and improved innovation strategy alignment.
+# AI-Powered EdTech Decision Platform
 
----
+**Tech:** Python, Power BI, Power Pages, Microsoft Copilot, Figma, Miro  
+**Type:** AI-assisted decision support system
 
-### 🏥 **HotDoc Application Analysis**  
-**Role:** Business Analyst | *Melbourne, Australia*  
-- 🧩 Deconstructed the **HotDoc patient engagement platform** to identify workflow gaps and improvement opportunities.  
-- 🌐 Proposed **Telemedicine & IoT integration** to enhance patient accessibility and engagement.  
-- 🗂️ Created UML & BPMN models to improve system clarity and documentation.  
-- 💡 Delivered a **business case & UI/UX redesign roadmap** improving patient experience.  
-**Tools:** Lucidchart · Draw.io · Figma · MS Project  
-**Impact:** Enhanced platform efficiency, accessibility, and healthcare technology adoption.
+## Overview
+A decision-support platform designed to help university staff evaluate and select learning technologies using structured inputs and AI-assisted guidance.
+
+## What I Worked On
+- Conducted user research with **50+ academic staff**
+- Defined decision criteria, user journeys, and workflows
+- Designed UX/UI flows and low-to-mid fidelity prototypes
+- Integrated an AI chatbot (Copilot) to guide users through decisions
+- Built dashboards to support data-driven comparisons
+
+## Outcome
+Delivered a working prototype recognised as the **strongest pitch**, shortlisted for implementation by RMIT College of Business & Law.
 
 ---
 
-### 🧠 **UTS – AI Capstone Project: Cuisine Similarity Analysis** *(Aug 2022 – Nov 2022)*  
-**Role:** Data Analyst | *Sydney, Australia*  
-- 📊 Analyzed 39,774 global recipes to classify cuisines using **machine learning**.  
-- 🧮 Applied **PCA** and **t-SNE** for data reduction and visualization.  
-- 🧠 Evaluated models (Logistic Regression, Random Forest, SVM, KNN) achieving **81% accuracy**.  
-- 🎨 Built **interactive UX/UI prototype** for users to explore cuisine similarities.  
-**Tools:** Python · R · Orange · Tableau · JustInMind  
-**Impact:** Demonstrated data-driven food analytics through AI and visualization.
+# Healthcare Platform Improvement – HotDoc
+
+**Tech:** Figma, Lucidchart, Draw.io, MS Project  
+**Type:** UX & process improvement analysis
+
+## Overview
+Analysis and redesign of patient appointment booking workflows to improve clarity, accessibility, and usability.
+
+## What I Worked On
+- Reverse-engineered existing patient booking journeys
+- Identified friction points and drop-off areas
+- Designed simplified future-state user flows
+- Created a UX improvement roadmap
+- Documented findings for non-technical stakeholders
+
+## Outcome
+Produced actionable UX recommendations to improve patient experience and reduce confusion in healthcare booking flows.
+
+
+---
+
+# Recipe Recommendation Product
+
+**Tech:** Python, R, Orange, Tableau, JustInMind  
+**Type:** Machine learning + UX prototype
+
+## Overview
+A recommendation system that suggests recipes based on ingredients users already have.
+
+## What I Built
+- Cleaned and analysed **39,774 global recipes**
+- Implemented ML models (Logistic Regression, Random Forest, SVM, KNN)
+- Achieved ~81% prediction accuracy
+- Applied PCA and t-SNE for data visualisation
+- Designed UX flows and interactive prototype
+- Built dashboards to explain insights and model performance
+
+## Outcome
+Delivered a user-friendly AI product concept balancing technical accuracy with intuitive UX.
+
   
+---
+
+# Public Health Service Improvement – BreastScreen Victoria
+
+**Tech:** Miro, Figma  
+**Type:** Service & experience design
+
+## Overview
+Service design project focused on improving access and trust in breast screening services for culturally diverse women.
+
+## What I Worked On
+- Conducted problem discovery and journey mapping
+- Identified barriers related to awareness, communication, and emotional safety
+- Designed inclusive, culturally sensitive service concepts
+- Proposed practical solutions aligned with policy and operational constraints
+
+## Outcome
+Solution was well received for its empathy-driven design, clarity, and real-world feasibility.
+
 ---
 
 ## 🎓 Education  
@@ -86,10 +134,10 @@ With hands-on experience in **enterprise systems, process modelling, and BI repo
 ---
 
 ## 🌱 Interests  
-🌿 Business Systems Innovation & BI Strategy  
-🌎 Sustainability & Circular Economy  
-📊 Data Storytelling for Decision-Making  
-🪷 Fragrance · Art · Pilates . Yoga  
+🌿 Product Innovation & System Thinking
+🌎 Sustainable Design & Circular Economy
+📊 Data Storytelling & Insight Communication
+🪷 Fragrance, Art & Mindful Movement (Pilates, Yoga)
 
 ---
 
