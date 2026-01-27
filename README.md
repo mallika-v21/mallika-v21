@@ -33,7 +33,8 @@ Currently completing my **Master of Business Information Technology at RMIT Univ
 ## 📁 Key Projects  
 
 # 🎓 AI-Powered EdTech Decision Platform
-
+🔗https://github.com/mallika-v21/AI-DSS-System-RMIT-University.git
+🤖 https://bitpteam4.wixstudio.com/edtechdss
 
 **Tech:** 🐍 Python · 📊 Power BI · 🌐 Power Pages · 🤖 Microsoft Copilot · 🎨 Figma · 🧠 Miro  
 **Type:** 🤖 AI-assisted decision support system
