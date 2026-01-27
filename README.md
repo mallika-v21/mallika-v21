@@ -75,6 +75,27 @@ Analysis and redesign of patient appointment booking workflows to improve **clar
 ## ✅ Outcome
 Produced **actionable UX recommendations** to improve patient experience and reduce confusion in healthcare booking flows.
 
+---
+🌐 Web Design & UX Project – Beverly  
+🔗 https://github.com/mallika-v21/Website-Design-and-Development-Beverly.git
+
+🤖 https://codepen.io/mallika-vaddi/pen/YzyPWrV
+
+**Tech:** 🌐 HTML · 🎨 CSS · ⚙️ JavaScript · 🎨 UX Design Tools  
+**Type:** 🧩 Web design, UX & front-end development
+
+🔍 **Overview**  
+End-to-end design and development of a multi-page website focused on clear structure, usability, and accessibility.
+
+🛠️ **What I Worked On**  
+🔎 Planned user journeys, navigation, and information architecture  
+🧩 Created wireframes and page layouts to define UX structure  
+🌐 Built and styled multiple pages using HTML, CSS, and JavaScript  
+♿ Applied accessibility principles aligned with WCAG guidelines  
+🧪 Conducted usability testing and refined designs based on feedback  
+
+✅ **Outcome**  
+Delivered a fully functional, accessible website demonstrating strong UX fundamentals, clear navigation, and thoughtful front-end implementation.
 
 ---
 
