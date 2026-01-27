@@ -33,7 +33,7 @@ Currently completing my **Master of Business Information Technology at RMIT Univ
 ## 📁 Key Projects  
 
 # 🎓 AI-Powered EdTech Decision Platform
-🔗 https://github.com/mallika-v21/Recipe-Recommendation-Product.git
+
 
 **Tech:** 🐍 Python · 📊 Power BI · 🌐 Power Pages · 🤖 Microsoft Copilot · 🎨 Figma · 🧠 Miro  
 **Type:** 🤖 AI-assisted decision support system
@@ -77,6 +77,7 @@ Produced **actionable UX recommendations** to improve patient experience and red
 ---
 
 # 🍽️ Recipe Recommendation Product
+🔗 https://github.com/mallika-v21/Recipe-Recommendation-Product.git
 
 **Tech:** 🐍 Python · 📊 R · 🟠 Orange · 📈 Tableau · 🎨 JustInMind  
 **Type:** 🤖 Machine learning + UX prototype
