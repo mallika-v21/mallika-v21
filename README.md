@@ -32,85 +32,87 @@ Currently completing my **Master of Business Information Technology at RMIT Univ
 
 ## 📁 Key Projects  
 
-# AI-Powered EdTech Decision Platform
+# 🎓 AI-Powered EdTech Decision Platform
 
-**Tech:** Python, Power BI, Power Pages, Microsoft Copilot, Figma, Miro  
-**Type:** AI-assisted decision support system
+**Tech:** 🐍 Python · 📊 Power BI · 🌐 Power Pages · 🤖 Microsoft Copilot · 🎨 Figma · 🧠 Miro  
+**Type:** 🤖 AI-assisted decision support system
 
-## Overview
+## 🔍 Overview
 A decision-support platform designed to help university staff evaluate and select learning technologies using structured inputs and AI-assisted guidance.
 
-## What I Worked On
-- Conducted user research with **50+ academic staff**
-- Defined decision criteria, user journeys, and workflows
-- Designed UX/UI flows and low-to-mid fidelity prototypes
-- Integrated an AI chatbot (Copilot) to guide users through decisions
-- Built dashboards to support data-driven comparisons
+## 🛠️ What I Worked On
+- 🔎 Conducted user research with **50+ academic staff**
+- 🗺️ Defined decision criteria, user journeys, and workflows
+- 🎨 Designed UX/UI flows and low-to-mid fidelity prototypes
+- 🤖 Integrated an AI chatbot (Copilot) to guide users through decisions
+- 📊 Built dashboards to support data-driven comparisons
 
-## Outcome
+## ✅ Outcome
 Delivered a working prototype recognised as the **strongest pitch**, shortlisted for implementation by RMIT College of Business & Law.
 
----
-
-# Healthcare Platform Improvement – HotDoc
-
-**Tech:** Figma, Lucidchart, Draw.io, MS Project  
-**Type:** UX & process improvement analysis
-
-## Overview
-Analysis and redesign of patient appointment booking workflows to improve clarity, accessibility, and usability.
-
-## What I Worked On
-- Reverse-engineered existing patient booking journeys
-- Identified friction points and drop-off areas
-- Designed simplified future-state user flows
-- Created a UX improvement roadmap
-- Documented findings for non-technical stakeholders
-
-## Outcome
-Produced actionable UX recommendations to improve patient experience and reduce confusion in healthcare booking flows.
-
 
 ---
 
-# Recipe Recommendation Product
+# 🏥 Healthcare Platform Improvement – HotDoc  
+🔗 https://github.com/mallika-v21/HotDoc.git
 
-**Tech:** Python, R, Orange, Tableau, JustInMind  
-**Type:** Machine learning + UX prototype
+**Tech:** 🎨 Figma · 📐 Lucidchart · 🧭 Draw.io · 📊 MS Project  
+**Type:** 🧠 UX & process improvement analysis
 
-## Overview
+## 🔍 Overview
+Analysis and redesign of patient appointment booking workflows to improve **clarity, accessibility, and usability**.
+
+## 🛠️ What I Worked On
+- 🔎 Reverse-engineered existing patient booking journeys  
+- ⚠️ Identified friction points and drop-off areas  
+- 🗺️ Designed simplified future-state user flows  
+- 🧩 Created a UX improvement roadmap  
+- 📝 Documented findings for non-technical stakeholders  
+
+## ✅ Outcome
+Produced **actionable UX recommendations** to improve patient experience and reduce confusion in healthcare booking flows.
+
+
+---
+
+# 🍽️ Recipe Recommendation Product
+
+**Tech:** 🐍 Python · 📊 R · 🟠 Orange · 📈 Tableau · 🎨 JustInMind  
+**Type:** 🤖 Machine learning + UX prototype
+
+## 🔍 Overview
 A recommendation system that suggests recipes based on ingredients users already have.
 
-## What I Built
-- Cleaned and analysed **39,774 global recipes**
-- Implemented ML models (Logistic Regression, Random Forest, SVM, KNN)
-- Achieved ~81% prediction accuracy
-- Applied PCA and t-SNE for data visualisation
-- Designed UX flows and interactive prototype
-- Built dashboards to explain insights and model performance
+## 🛠️ What I Built
+- 🧹 Cleaned and analysed **39,774 global recipes**  
+- 🤖 Implemented ML models (Logistic Regression, Random Forest, SVM, KNN)  
+- 📈 Achieved **~81% prediction accuracy**  
+- 🧠 Applied PCA and t-SNE for data visualisation  
+- 🎨 Designed UX flows and interactive prototype  
+- 📊 Built dashboards to explain insights and model performance  
 
-## Outcome
-Delivered a user-friendly AI product concept balancing technical accuracy with intuitive UX.
-
+## ✅ Outcome
+Delivered a **user-friendly AI product concept** balancing technical accuracy with intuitive UX.
   
 ---
 
-# Public Health Service Improvement – BreastScreen Victoria
+# 🏥 Public Health Service Improvement – BreastScreen Victoria
 
-**Tech:** Miro, Figma  
-**Type:** Service & experience design
+**Tech:** 🧠 Miro · 🎨 Figma  
+**Type:** 🧩 Service & experience design
 
-## Overview
-Service design project focused on improving access and trust in breast screening services for culturally diverse women.
+## 🔍 Overview
+Service design project focused on improving **access and trust** in breast screening services for culturally diverse women.
 
-## What I Worked On
-- Conducted problem discovery and journey mapping
-- Identified barriers related to awareness, communication, and emotional safety
-- Designed inclusive, culturally sensitive service concepts
-- Proposed practical solutions aligned with policy and operational constraints
+## 🛠️ What I Worked On
+- 🔎 Conducted problem discovery and journey mapping  
+- 🚧 Identified barriers related to awareness, communication, and emotional safety  
+- 🌍 Designed inclusive, culturally sensitive service concepts  
+- ⚖️ Proposed practical solutions aligned with policy and operational constraints  
 
-## Outcome
-Solution was well received for its empathy-driven design, clarity, and real-world feasibility.
+## ✅ Outcome
+The solution was well received for its **empathy-driven design, clarity, and real-world feasibility**.
+
 
 ---
 
