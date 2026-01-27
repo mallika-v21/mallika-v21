@@ -76,7 +76,7 @@ Analysis and redesign of patient appointment booking workflows to improve **clar
 Produced **actionable UX recommendations** to improve patient experience and reduce confusion in healthcare booking flows.
 
 ---
-🌐 Web Design & UX Project – Beverly  
+# 🌐 Web Design & UX Project – Beverly  
 🔗 https://github.com/mallika-v21/Website-Design-and-Development-Beverly.git
 
 🤖 https://codepen.io/mallika-vaddi/pen/YzyPWrV
