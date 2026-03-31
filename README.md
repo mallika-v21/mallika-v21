@@ -5,7 +5,7 @@
 
 ## 💫 About Me  
 Product-minded graduate with experience in UX, data, and digital platforms. I enjoy building practical, user-centred solutions and learning by doing.
-Currently completing my **Master of Business Information Technology at RMIT University**, I specialize in turning complex challenges into clear, actionable insights that drive digital transformation and sustainable growth.  
+I currently hold a **Master of Business Information Technology from RMIT University**, and I specialise in turning complex challenges into clear, actionable insights that drive digital transformation and sustainable growth.  
 
 
 ---
